@@ -1,0 +1,3 @@
+
+<?php echo "商品id是：".$id; ?>....
+<?php echo "关键字是:".  $name; ?>
